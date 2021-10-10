@@ -32,7 +32,7 @@ int main()
         Sleep(5000);
     }
     if (i==60) {
-        cout << "\n\n\t\t\tTO    YEU            ";
+        cout << "\n\n\t\t\tTO    YÊU            ";
         cout << "\n\n\n\t\tTren the gioi nay co 7 ty nguoi \n\t\tMa sao chi co 1 nguoi yeu cau.";
         cout << "\n\t\t==>VA NGUOI DO CHINH LA TO DAY !!!";
         Sleep(5000);
