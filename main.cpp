@@ -23,7 +23,7 @@ int main()
     }
     if (i==40) {
         cout<< "\n\n\t\t\tTO   Y                  ";
-        cout << "\n\n\n\t\tTu khi gap cau trai tim to luc nao cung loan nhip. \n\t\tHinh nhu cau da danh cap trai tim to roi!";
+        cout << "\n\n\n\t\tTu khi gap cau trai tim to luc nao cung loan nhịp. \n\t\tHinh nhu cau da danh cap trai tim to roi!";
         Sleep(4000);
     }
     if (i==50) {
