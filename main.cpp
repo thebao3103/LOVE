@@ -23,7 +23,7 @@ int main()
     }
     if (i==40) {
         cout<< "\n\n\t\t\tTO   Y                  ";
-        cout << "\n\n\n\t\tTu khi gap cau trai tim to luc nao cung loan nhip. \n\t\tHinh nhu cau da danh cap trai tim to roi!";
+        cout << "\n\n\n\t\tTu khi gap cau trai tim to luc nao cung loan nhịp. \n\t\tHinh nhu cau da danh cap trai tim to roi!";
         Sleep(4000);
     }
     if (i==50) {
@@ -32,7 +32,7 @@ int main()
         Sleep(5000);
     }
     if (i==60) {
-        cout << "\n\n\t\t\tTO    YEU            ";
+        cout << "\n\n\t\t\tTO    YÊU            ";
         cout << "\n\n\n\t\tTren the gioi nay co 7 ty nguoi \n\t\tMa sao chi co 1 nguoi yeu cau.";
         cout << "\n\t\t==>VA NGUOI DO CHINH LA TO DAY !!!";
         Sleep(5000);
